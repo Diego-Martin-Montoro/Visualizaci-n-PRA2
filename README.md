@@ -1,5 +1,6 @@
-# Visualizaci-n-PRA2
+# READ ME
 
+Los ficheros entregados son:
 
  preproceso.html   		      --- html del notebook que demuestra el proceso de preprocesado de datos.  
  preproceso.ipynb  		      --- código del notebook que demuestra el proceso de preprocesado de datos.  
