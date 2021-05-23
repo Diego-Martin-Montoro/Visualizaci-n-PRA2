@@ -1,5 +1,5 @@
 # READ ME
-
+Enlace a la visualización: https://public.tableau.com/profile/diego8806#!/vizhome/Practica2_16217884801600/Dashboard1?publish=yes
 Los ficheros entregados son:
 
  preproceso.html   		      --- html del notebook que demuestra el proceso de preprocesado de datos.  
